@@ -1,1 +1,1 @@
-# Arquivo de Estudo-Digirido 
+# Arquivo de exercicios do Estudo Digirido 
